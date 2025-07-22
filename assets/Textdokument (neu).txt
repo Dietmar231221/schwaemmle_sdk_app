@@ -1,0 +1,14 @@
+[
+  {
+    "frage": "Warum ist mein Poolwasser grün?",
+    "antwort": "Grünes Poolwasser wird meistens durch Algen verursacht. Überprüfe den Chlorwert und führe eine Stoßchlorung durch."
+  },
+  {
+    "frage": "Wie oft muss ich den Filter reinigen?",
+    "antwort": "Reinige den Filter mindestens einmal pro Woche oder wenn der Druck steigt."
+  },
+  {
+    "frage": "Was tun bei trübem Wasser?",
+    "antwort": "Überprüfe den pH-Wert und filtere durchgehend. Eventuell Flockungsmittel verwenden."
+  }
+]

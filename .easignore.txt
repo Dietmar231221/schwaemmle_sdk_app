@@ -1,0 +1,25 @@
+# Ignoriere build- und cache-Dateien
+node_modules
+.expo
+.expo-shared
+dist
+build
+android/.gradle
+android/app/build
+ios/Pods
+
+# Log- und Fehlerdateien
+npm-debug.log*
+yarn-error.log
+*.log
+*.tmp
+*.bak
+
+# Editor-spezifisch
+.vscode
+.idea
+.DS_Store
+
+# Umgebungsvariablen
+.env
+.env.*

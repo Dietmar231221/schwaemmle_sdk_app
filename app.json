@@ -1,0 +1,11 @@
+{
+  "name": "SchwaemmleApp",
+    "extra": {
+    "eas": {
+      "projectId": "3b4c7fee-24e3-4b0e-860b-307be01bb9a8"
+    }
+  },
+  "android": {
+    "package": "com.dietmar.schwaemmleapp"
+  }
+}
